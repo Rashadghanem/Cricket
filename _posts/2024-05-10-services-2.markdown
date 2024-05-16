@@ -1,0 +1,14 @@
+---
+layout: default
+img: sachine.jpg
+category: Services
+title: Sachin Tendulkar </br> (India)
+description: |
+---
+  A modern legend of the game, Tendulkar is India's very own God of Cricket, a world class batsman who also had decent bowling ability.
+
+<b>Years active:</b> 1988 - 2013
+<b>Test runs:</b> 15,921
+<b>Batting average:</b> 53.78
+<b>Test wickets:</b> 46
+<b>Bowling average:</b> 54.17

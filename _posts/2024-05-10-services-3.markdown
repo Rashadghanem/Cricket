@@ -1,0 +1,14 @@
+---
+layout: default
+img: garfield.jpg
+category: Services
+title:  Sir Garfield Sobers </br>(West Indies)
+description: |
+---
+The West Indies all-rounder could do everything – he was equally accomplished as a fast and spin bowler, and he was a shrewd batsman.
+
+<b>Years active:</b> 1952 - 1974
+<b>Test runs:</b> 8,032
+<b>Batting average:</b> 57.78
+<b>Test wickets:</b> 235
+<b>Bowling average:</b> 34.03
