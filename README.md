@@ -2,7 +2,6 @@
 
 Welcome to the Cricket Blog! This is a Jekyll-based blog where cricket enthusiasts can read articles, analysis, and updates about the cricket world.
 
-![Cricket Blog Preview](link-to-preview-image)
 
 ## Introduction
 
