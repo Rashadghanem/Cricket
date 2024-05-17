@@ -28,24 +28,24 @@ Welcome to the Cricket Blog! This is a Jekyll-based blog where cricket enthusias
 
 ```bash
 git clone https://github.com/your-username/cricket-blog.git](https://github.com/Rashadghanem/Cricket.github.io.git
-
+```
 2. Navigate to the project directory:
 
 ```bash
 cd cricket-blog
-
+```
 3. Install dependencies:
 
 ```bash
 bundle install
-
+```
 ### Usage
 
 1.Run the blog locally:
 
 ```bash
 bundle exec jekyll serve
-
+```
 ### Live Website:
 Visit the live version of the Cricket Blog at: https://rashadghanem.github.io/Cricket.github.io/
 
